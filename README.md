@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A frequent and fast learning individual recently graduated in Software engineering from Mehran UET, Pakistan (2017-2021),
-having 3+ years of experience of working with different technologies and frameworks as a freelance Software developer at [Fiverr](https://www.fiverr.com/users/mnizamani786/seller_dashboard).
-Developing Desktop, Android and Web applications have allowed me to gain relevant experience with different domain specific technologies.
+A frequent and fast learning individual recently graduated in Software engineering 💻 from Mehran UET, Pakistan (2017-2021),
+having **3+** years of experience of working with different technologies ⚙ and frameworks as a freelance Software developer at *[Fiverr](https://www.fiverr.com/users/mnizamani786/seller_dashboard)*.
+Developing Desktop 🖥, Android 📱 and Web 🕸 applications have allowed me to gain relevant experience with different domain specific technologies.
 
 👩‍💻 Languages:
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
