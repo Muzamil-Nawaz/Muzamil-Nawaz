@@ -40,3 +40,8 @@ Developing Desktop 🖥, Android 📱 and Web 🕸 applications have allowed me 
 * ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 * ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 * ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+** 🗺 Find me at:**
+* ![LinkedIn](https://www.linkedin.com/in/muzamil-nawaz-5b0922174/)
+* ![Twitter](twitter.com/@MuzamilNawaz10)
+* ![Medium](https://mzmlnwz5.medium.com/)
