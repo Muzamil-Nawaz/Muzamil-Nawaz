@@ -19,6 +19,8 @@ A frequent and fast learning individual recently graduated in Software engineeri
 having **3+** years of experience of working with different technologies ⚙ and frameworks as a freelance Software developer at *[Fiverr](https://www.fiverr.com/users/mnizamani786/seller_dashboard)*.
 Developing Desktop 🖥, Android 📱 and Web 🕸 applications have allowed me to gain relevant experience with different domain specific technologies.
 
+*I am open to oppurtunities/roles with any reputed team/organization, you have one? feel free to contact. Below are areas, in which I can provide value ⬇*
+
 **👩‍💻 Languages:**
 * ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
