@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A frequent and fast learning individual recently graduated in Software engineering 💻 from Mehran UET, Pakistan (2017-2021),
-having **3+** years of experience of working with different technologies ⚙ and frameworks as a freelance Software developer at *[Fiverr](https://www.fiverr.com/users/mnizamani786/seller_dashboard)*.
-Developing Desktop 🖥, Android 📱 and Web 🕸 applications have allowed me to gain relevant experience with different domain specific technologies.
+With 4+ years of experience in the field, I have honed my skills as a software engineer, specializing in Java, Spring Boot, SQL, React, AngularJS, and various other full-stack technologies.
 
-*I am open to oppurtunities/roles with any reputed team/organization, you have one? feel free to contact. Below are areas, in which I can provide value ⬇*
+Known for my core quality of being an analytical thinker and a problem solver, I thrive on tackling complex challenges and delivering innovative solutions. My passion for technology and commitment to excellence drives me to continuously expand my knowledge and contribute to the ever-evolving software landscape. 
+
+*Let's connect and explore opportunities to collaborate on cutting-edge projects.Below are areas, in which I can provide value ⬇*
 
 ### 👩‍💻 Languages:
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
